@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+set(PROJECT_NAME my_test_project)
+project(${PROJECT_NAME})
+file(GLOB TARGET_SRC "test.cpp")
+add_executable(${PROJECT_NAME} ${TARGET_SRC})

@@ -1,0 +1,3 @@
+C:/Users/ksd/Desktop/Новая папка/TestProject/bin/CMakeFiles/my_test_project.dir
+C:/Users/ksd/Desktop/Новая папка/TestProject/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/ksd/Desktop/Новая папка/TestProject/bin/CMakeFiles/ZERO_CHECK.dir
